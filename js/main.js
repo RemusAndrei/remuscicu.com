@@ -83,7 +83,7 @@
 
     (() => {
         // Specify the deadline date
-        const deadlineDate = new Date('March 01, 2021 23:59:59').getTime();
+        const deadlineDate = new Date('July 01, 2021 23:59:59').getTime();
         
         // Cache all countdown boxes into consts
         const countdownDays = document.querySelector('.countdown__days .number');
